@@ -1,0 +1,6 @@
+C:\Users\IT-Admin\projects\MathOpsLibrary\bin\Debug\MathOpsLibrary.dll
+C:\Users\IT-Admin\projects\MathOpsLibrary\bin\Debug\MathOpsLibrary.pdb
+C:\Users\IT-Admin\projects\MathOpsLibrary\obj\Debug\MathOpsLibrary.csprojAssemblyReference.cache
+C:\Users\IT-Admin\projects\MathOpsLibrary\obj\Debug\MathOpsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\IT-Admin\projects\MathOpsLibrary\obj\Debug\MathOpsLibrary.dll
+C:\Users\IT-Admin\projects\MathOpsLibrary\obj\Debug\MathOpsLibrary.pdb
